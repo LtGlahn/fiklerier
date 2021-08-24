@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# IKKE regneark fra medlemsregisteret vårt
+SSM-regneark/*.xlsx
+SSM-regneark/*.xls
+SSM-regneark/*.csv 
